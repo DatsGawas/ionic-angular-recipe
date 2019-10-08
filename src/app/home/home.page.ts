@@ -6,7 +6,10 @@ import { Component } from '@angular/core';
   styleUrls: ['home.page.scss'],
 })
 export class HomePage {
-
+  text = 'Changed';
   constructor() {}
+  onChangeText() {
+   this.text = 'Datta';
+  }
 
 }

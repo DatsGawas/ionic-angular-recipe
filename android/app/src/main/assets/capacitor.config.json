@@ -1,0 +1,7 @@
+{
+  "appId": "com.dats.angular-recipe",
+  "appName": "ionic-angular",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www"
+}
